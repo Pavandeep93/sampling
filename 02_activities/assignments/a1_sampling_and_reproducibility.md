@@ -15,7 +15,7 @@ Alter the code so that it is reproducible. Describe the changes you made to the 
 # Identification and Explanation of Sampling Stages in the Model: 
 
 1. # initial event attendance sampling (Primary Sampling):
-   Procedure: The population is  divided into event types, but this can be seen as a form of stratified sampling where individuals are assigned to specific strata (weddings or brunches).
+   Sampling Procedure: The population is  divided into event types, but this can be seen as a form of stratified sampling where individuals are assigned to specific strata (weddings or brunches).
    Sampling frame: A population of 1000 individuals divided into two event types: Weddings: 2 events, 100 attendees each(200 total)
    Sample Size: The total population is 1000 (200 attending weddings, 800 attending brunches), and 10% of this population (100 individuals) are randomly chosen to be infected.
    Relation to the Blog Post: It reflects the blog post's assumption that every person in the community attends exactly one event during the time period under consideration. The division into weddings and brunches matches the blog post's setup: Weddings: 2 events, 100 attendees each (total 200 people). Brunches: 80 events, 10 attendees each (total 800 people)
