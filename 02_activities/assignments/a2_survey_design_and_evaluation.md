@@ -40,39 +40,80 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
-```
-write your answer here...
-```
+The purpose of this survey is to identify the reasons behind the high turnover rate in entry- and lower-level positions at a large tech company and to gather employee feedback on potential changes that could improve job satisfaction and retention.
 
 Describe your target population, sampling frame, sampling units, and observational units:
-```
-write your answer here...
-```
+Target Population: Current and former employees in entry- and lower-level positions at the company
+Sampling Frame: A list of all current and former employees in entry- and lower-level positions from the past 12 month
+Sampling Units & Observational Units: Individual employees & responses from employees regarding their experiences and satisfaction levels.
+Sampling Strategy: The sampling strategy for this survey is stratified random sampling. The population is divided into strata based on department and tenure length to ensure representation across all subgroups. A random sample is drawn from each stratum, with sample sizes proportional to the stratum's size in the population. This approach ensures that all departments and tenure lengths are adequately represented, Reduces sampling error and provides accurate subgroup insights and also identifies department- or tenure-specific issues for targeted interventions.Former employees from the past 12 months are included in the sampling frame, stratified similarly. Challenges like non-response bias are mitigated through follow-ups and incentives
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1.How long did you work at the company before leaving? (If applicable)
+Less than 6 months
+6–12 months
+1–2 years
+More than 2 years
+
+2. On a scale of 1 to 10, how satisfied were you with your role and responsibilities?
+(1 = Very dissatisfied, 10 = Very satisfied)
+
+3.What were the primary reasons for your decision to leave the company? (Select all that apply)
+Lack of career growth opportunities
+Unsatisfactory compensation or benefits
+Poor work-life balance
+Unsupportive management
+Other (please specify)
+
+4. How would you rate your relationship with your direct supervisor?
+(1 = Very poor, 10 = Excellent)
+
+5. What changes could the company make to improve employee satisfaction and retention?
+(Open-ended)
+
+6. Did you feel adequately recognized and rewarded for your contributions?
+Yes
+No
+
+7. How would you describe the company culture?
+(Open-ended)
+
+8. Would you consider returning to the company in the future?
+Yes
+No
+Maybe
+
+9. What additional benefits or perks would have made you more likely to stay?
+(Open-ended)
+
+10.On a scale of 1 to 10, how likely are you to recommend this company as a workplace to others?
+(1 = Very unlikely, 10 = Very likely)
 ```
 
 ## Part B - Survey Evaluation:
 
 Identify and describe survey features:
 
-```
-write your answer here
-```
+Sample type: The survey used a stratified random sampling approach. This means the population was divided into subgroups (strata) based on geographic regions and demographic characteristics, and a random sample was drawn from each stratum
+Sample size: Approximately 22,000 respondents aged 15 and older participated in the survey. This large sample size ensures the results are representative of the Canadian population
+Target population: The target population was Canadian residents aged 15 and older, excluding individuals living in institutions (e.g., prisons, long-term care facilities) and those living on reserves.
+Sampling frame: The sampling frame was derived from Canadian Census data and administrative records, ensuring coverage of the target population.
+Survey mode(s): The survey was conducted using computer-assisted telephone interviewing (CATI) and self-administered online surveys. This mixed-mode approach helped improve response rates and accessibility.
+Timeline: Data collection took place from February to December 2018, providing a  snapshot of giving, volunteering, and participating behaviors over the year
+Response rate: The survey achieved a response rate of approximately 55%. While this is relatively high for social surveys, non-response bias remains a potential limitation.
+Weights: Weights were applied to the data to adjust for non-response and to ensure the sample was representative of the Canadian population in terms of age, gender, and geographic distribution.
+Data processing: Cleaning: Incomplete or inconsistent responses were removed to ensure data quality.
+Imputation: Missing data were imputed using statistical techniques to maintain the integrity of the dataset.
+Sources of error: Non-response bias: The 45% non-response rate may introduce bias if non-respondents differ significantly from respondents.
+Sampling error: While stratified random sampling reduces sampling error, it cannot eliminate it entirely.
+Measurement error: Self-reported data may be subject to inaccuracies due to recall bias or social desirability bias.
+Limitations, Known Biases, etc.: Limitations of the survey include underrepresentation of certain groups such as Indigenous populations, individuals without phone access, and those in remote or rural areas and also responses are based on participants’ perceptions and memories, which may not always be accurate.
+Link to documentation and any additional sources used: The official documentation for the survey can be found here:
+Statistics Canada - General Social Survey, Cycle 33
 
 ## Rubric
 
